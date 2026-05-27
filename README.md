@@ -1,1 +1,6 @@
 # MCA_SEM1_JAVA
+ NAME: Domada kusumakusumari
+ COLLEGE: aditya university
+ course: Masters of computer applications(Pursuing)
+ YEAR OF PASS: 2025-2027
+ DOMAIN: Basic  and Advance java programming
